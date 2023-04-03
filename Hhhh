@@ -7,7 +7,7 @@ pull_url = "https://github.sc-corp.net/api/v3/repos/Snapchat/android/pulls/" + s
 payload = {}
 payload["Authorization"] = "token " + "9db9ca3440e535d90408a32a9c03d415979da910"
 print payload
-ghp_16C7e42F292c6912E7710c838347Ae178B4a
+
 r = requests.get(pull_url,
 
 ```
