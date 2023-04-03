@@ -12,6 +12,9 @@ r = requests.get(pull_url,
 
 ```
 
+AKIAIOSFODNN7EXAMPLE2BFRMVERXx6Kf8F+Acabxyz
+
+
 ## Impact
 
 I didn't try anything with the token, and dont know what access it has, and i know that in order to login to https://github.sc-corp.net you need to have an email @snap but still i though it would be a good idea to share this finding with you in case it can be used in a way that i dont know.
